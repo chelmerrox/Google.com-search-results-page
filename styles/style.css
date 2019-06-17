@@ -118,3 +118,9 @@ input[type="text"] {
     padding: 2px 200px 20px 105px;
     border-bottom: 1px solid rgb(206, 204, 204);
 }
+
+/*Change color for the top left tabs, icons and settings tab when cursor hovers over it*/
+a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
+    color: blue;
+    text-decoration: none;
+}
