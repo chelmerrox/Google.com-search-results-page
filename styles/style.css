@@ -57,3 +57,8 @@ input[type="text"] {
  input:hover {
     box-shadow: 1px 1px 5px 1px rgb(194, 194, 194);
 }
+
+/*Styles for microphone and magnifying glass*/
+.mic-and-magnifying-glass {
+    float: right;
+}
