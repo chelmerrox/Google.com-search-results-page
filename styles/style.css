@@ -62,3 +62,12 @@ input[type="text"] {
 .mic-and-magnifying-glass {
     float: right;
 }
+
+/*Styles for microphone*/
+#mic {
+    margin: 1px;
+    position: relative; /*This along with the "helper" properties beneath it moves the image/icon into the search bar  to appear on the right side*/
+    top: -52px;
+    right: 127px;
+
+}
