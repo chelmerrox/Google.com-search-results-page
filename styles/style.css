@@ -47,3 +47,8 @@ form input, form image {
     top: -65px;
     
 }
+
+/*Removing blue border around search bar when clicking on it*/
+input[type="text"] {
+    outline: none; 
+ }
