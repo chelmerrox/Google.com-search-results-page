@@ -154,3 +154,10 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     margin: 9px 15px 0 25px;
     font: 13px sans-serif, arial;
 }
+
+/*Making the All tab blue with a blue underline*/
+#all {
+    color: blue;
+    border-bottom: 2px solid blue;
+    padding-bottom: 20px;
+}
