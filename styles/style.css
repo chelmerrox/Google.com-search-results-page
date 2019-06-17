@@ -111,3 +111,10 @@ input[type="text"] {
 #signin:hover {
     box-shadow: 1px 1px 1px rgb(167, 164, 164);
 }
+
+/*Styles for the tabs in second container*/
+.tabs {
+    margin: 1px 15px;
+    padding: 2px 200px 20px 105px;
+    border-bottom: 1px solid rgb(206, 204, 204);
+}
