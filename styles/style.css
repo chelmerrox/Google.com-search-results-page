@@ -14,3 +14,8 @@ body {
     background: white;
     
 }
+
+/*Styles for logo and search bar*/
+.logoandsearch {
+    float: left;
+}
