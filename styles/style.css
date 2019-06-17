@@ -19,3 +19,10 @@ body {
 .logoandsearch {
     float: left;
 }
+
+/*Styles for the second container*/
+.googleappsandsignin {
+    float: right;
+    position: relative; /*since position: fixed moves these two to the center of web page, the position property with its value "relative" and right property (one of the helper property's that is declared too when position: relative is decalred) are used as in this case it moves them to the right of web page*/
+    right: -350px;
+}
