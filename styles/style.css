@@ -144,3 +144,13 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     padding-bottom: 1px;
     
 }
+
+/*Styles to tabs on the right*/
+.toprighttabs {
+    color: grey;
+    text-decoration: none;
+    line-height: 4px;
+    word-spacing: 5px;
+    margin: 9px 15px 0 25px;
+    font: 13px sans-serif, arial;
+}
