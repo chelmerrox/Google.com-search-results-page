@@ -176,3 +176,10 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
 .result {
     margin: 5px 500px 5px 150px;
  }
+
+  /*Styles for paragraphs of each result and book results*/
+.results-paragraph, .book-year-field {
+    color: rgb(83, 82, 82);
+    font: 13px sans-serif, arial;
+    
+}
