@@ -106,3 +106,8 @@ input[type="text"] {
     color: white;
     text-decoration: none;
 }
+
+/*Blurry box shadow when cursor hovers over Sign in button*/
+#signin:hover {
+    box-shadow: 1px 1px 1px rgb(167, 164, 164);
+}
