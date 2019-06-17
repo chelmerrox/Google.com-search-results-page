@@ -161,3 +161,13 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     border-bottom: 2px solid blue;
     padding-bottom: 20px;
 }
+
+/*Styles for number of results text*/
+#resultsnumber p {
+    color: grey;
+    font: 13px sans-serif, arial;
+    margin-left: 150px;
+    margin-top: 2px;
+    padding-top: 3px;
+    
+}
