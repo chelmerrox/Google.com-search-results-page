@@ -132,3 +132,15 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     padding: 10px;
     background-color: rgb(245, 240, 240);
 }
+
+/*Styles to tabs on the left*/
+.toplefttabs {
+    color: grey;
+    text-decoration: none;
+    line-height: 4px;
+    word-spacing: 5px;
+    margin: 9px 15px 0 13px;
+    font: 13px sans-serif, arial;
+    padding-bottom: 1px;
+    
+}
