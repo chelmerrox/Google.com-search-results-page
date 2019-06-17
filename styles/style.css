@@ -1,0 +1,8 @@
+/*Setting these styles for the whole body*/
+body {
+    background-color: white;
+    margin: 0;
+    display: block;
+    font-family: arial, sans-serif;
+    font-size: small;
+}
