@@ -6,3 +6,11 @@ body {
     font-family: arial, sans-serif;
     font-size: small;
 }
+
+/*Styles for the elements in the first container*/
+.iconsandlinks {
+    margin: 0;
+    position: fixed;
+    background: white;
+    
+}
