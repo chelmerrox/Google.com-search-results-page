@@ -71,3 +71,12 @@ input[type="text"] {
     right: 127px;
 
 }
+
+/*Styles for magnifying glass*/
+#magnifyingglass {
+    margin: 13px;
+    position: relative;
+    top: -64px;
+    right: 60px;
+
+}
