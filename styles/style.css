@@ -52,3 +52,8 @@ form input, form image {
 input[type="text"] {
     outline: none; 
  }
+
+ /*Adding blurry box-shadow around search bar when cursor hovers over it*/
+ input:hover {
+    box-shadow: 1px 1px 5px 1px rgb(194, 194, 194);
+}
