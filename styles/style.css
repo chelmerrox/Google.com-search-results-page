@@ -34,7 +34,7 @@ body {
     margin-right: 0;
 }
 
-*Styles for search bar*/
+/*Styles for search bar*/
 form input, form image {
     line-height: 40px;
     margin-top: 0;
@@ -171,3 +171,8 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     padding-top: 3px;
     
 }
+
+/*Styles for all results */
+.result {
+    margin: 5px 500px 5px 150px;
+ }
