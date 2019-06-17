@@ -33,3 +33,17 @@ body {
     text-decoration: none;
     margin-right: 0;
 }
+
+*Styles for search bar*/
+form input, form image {
+    line-height: 40px;
+    margin-top: 0;
+    margin-left: 150px;
+    padding-top: 0;
+    padding-left: 25px; /*move blinking cursor within text-field a little more to the right*/
+    border: 1px solid rgb(201, 194, 194);
+    border-radius: 30px;
+    position: relative; /*moves the search bar to the top along with using the top "helper" property*/
+    top: -65px;
+    
+}
