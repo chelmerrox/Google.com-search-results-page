@@ -6,10 +6,10 @@ This assigned project is my attempt at replicating the search results page as in
 
 There are no JavaScript code in this project since this is solely to practise on placements and styling of elements/content of the webpage.
 
-##Screenshot of web page
+## Screenshot of web page
 
-![My Google.com search results page - The top part of the web page] ("images/mygoogle.comsearchresultspage.png")
+![My Google.com search results page - The top part of the web page] (images/mygoogle.comsearchresultspage.png)
 
-##Author
+## Author
 
 Losalini Rokocakau **GitHub username:** *chelmerrox*
