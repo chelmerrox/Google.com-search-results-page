@@ -400,3 +400,10 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     padding: 20px 230px 20px 100px ;
     margin: 0;
 }
+
+/*Styles of the bottom links*/
+.bottomlinks {
+    color: grey;
+    font: 14px sans-serif, arial;
+    text-decoration: none;
+}
