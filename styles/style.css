@@ -381,3 +381,15 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     margin-bottom: 23px;
     
 }
+
+/*Styles and positioning of location text at the bottom of the web page*/
+#location {
+    color: grey;
+    background-color: rgb(236, 234, 234);
+    font: 14px sans-serif, arial;
+    border-top: 1px solid rgb(206, 201, 201);
+    border-bottom: 1px solid rgb(206, 201, 201);
+    padding: 20px 230px 20px 100px ;
+    margin: 0;
+    
+}
