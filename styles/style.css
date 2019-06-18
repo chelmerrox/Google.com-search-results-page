@@ -251,3 +251,12 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     position: relative;
     top: -300px;
 }
+
+
+ /*Styles for "People who ask" */
+ #people-also-ask {
+    color: grey;
+    font: 20px sans-serif, arial bold;
+    border-bottom: 1px solid rgb(184, 179, 179);
+    padding-bottom: 15px;
+}
