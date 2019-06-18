@@ -332,3 +332,10 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
 .icon-links {
     margin: 27px;
 }
+
+/*Styles for the logo texts/links underneath its logo*/
+.icon-links-text {
+    color: blue;
+    text-decoration: none;
+    margin: 14px;
+}
