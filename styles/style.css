@@ -210,3 +210,11 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     color: blue;
     text-decoration: none;
 }
+
+ /*Positioning of 1st result on web page*/
+ #result-1 {
+    margin: 30px 350px 30px 150px;
+    position: relative;
+    top: -24px;
+    display: block;
+}
