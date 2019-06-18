@@ -204,3 +204,9 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     font: 14px arial, sans-serif;
     text-decoration: none;
 }
+
+/*Styles for links under the first result paragraph (Free Website Builder etc.)*/
+.links {
+    color: blue;
+    text-decoration: none;
+}
