@@ -339,3 +339,15 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     text-decoration: none;
     margin: 14px;
 }
+
+/*Positioing of the Web designer logo*/
+#googlewebdesigner {
+    padding-left: 30px;
+}
+
+/*Positioning of the Webnode logo*/
+#webnode {
+    padding-left: 43px;
+}
+
+
