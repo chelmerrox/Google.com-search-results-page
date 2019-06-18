@@ -8,7 +8,7 @@ There are no JavaScript code in this project since this is solely to practise on
 
 ## Screenshot of web page
 
-![My Google.com search results page - The top part of the web page] (images/mygoogle.comsearchresultspage.png)
+![My-Google-search-results-page] (images/mygoogle.comsearchresultspage_top.png)
 
 ## Author
 
