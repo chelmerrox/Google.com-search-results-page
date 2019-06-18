@@ -274,3 +274,9 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     padding-right: 4px;
     color: grey;
 }
+
+/*Removing the border bottom for this result*/
+#result-3-a-1 {
+    border-bottom: none;
+    padding-bottom: 3px;
+}
