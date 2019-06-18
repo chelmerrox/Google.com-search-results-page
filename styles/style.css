@@ -299,3 +299,10 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     position: relative;
     top: -300px;
 }
+
+/*Styles for author's names*/
+.google-book-authors {
+    color: blue;
+    text-decoration: none;
+}
+
