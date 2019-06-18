@@ -356,3 +356,10 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     text-decoration: none;
     font: 15px sans-serif, arial bolder;
 }
+
+
+/*Underline more search results suggestions when cursosr hovers over each one*/
+.morelinks:hover {
+    color: blue;
+    text-decoration: underline;
+}
