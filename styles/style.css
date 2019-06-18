@@ -350,4 +350,9 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     padding-left: 43px;
 }
 
-
+/*Styles for the search results suggestions*/
+.morelinks {
+    color: blue;
+    text-decoration: none;
+    font: 15px sans-serif, arial bolder;
+}
