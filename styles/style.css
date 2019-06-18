@@ -306,3 +306,11 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     text-decoration: none;
 }
 
+/*Position of results 14 & 15*/
+#result-14, #result-15 {
+    margin: 20px 350px 2px 150px;
+    border: 1px solid rgb(184, 179, 179);
+    border-radius: 10px;
+    padding: 10px 10px 35px 25px;
+    display: block;
+}
