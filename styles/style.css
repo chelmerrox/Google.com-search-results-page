@@ -363,3 +363,9 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     color: blue;
     text-decoration: underline;
 }
+
+/*Moving the links to the right */
+#link2, #link4, #link6, #link8 {
+    margin-left: 60px;
+    
+}
