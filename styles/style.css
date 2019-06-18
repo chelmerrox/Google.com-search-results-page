@@ -393,3 +393,10 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     margin: 0;
     
 }
+
+/*Position of the links at the bottom of the web page*/
+#bottomnavbar {
+    background-color: rgb(236, 234, 234);
+    padding: 20px 230px 20px 100px ;
+    margin: 0;
+}
