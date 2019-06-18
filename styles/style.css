@@ -369,3 +369,15 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     margin-left: 60px;
     
 }
+
+/*Positioning of the pagination image/link*/
+.pagination {
+    margin-left: 300px;
+}
+
+/*Positioning of the pages for pagination*/
+.pages {
+    margin-left: 450px;
+    margin-bottom: 23px;
+    
+}
