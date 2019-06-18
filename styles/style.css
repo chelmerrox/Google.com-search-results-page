@@ -230,3 +230,12 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     position: relative;
     top: -250px;
 }
+
+/*Style for about and feedback under the 2nd result border*/
+.aboutandfeedback {
+    color: grey;
+    font: 12px sans-serif, arial;
+    padding-left: 750px;
+    position: relative;
+    top: -250px;
+}
