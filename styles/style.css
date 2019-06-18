@@ -191,3 +191,9 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     text-decoration: none;
     padding-bottom:  1px;
 }
+
+ /*Underline when cursor hovers over links*/
+ .resultlinks:hover , .google-book-authors:hover, .links:hover {
+    color: blue;
+    text-decoration: underline;
+}
