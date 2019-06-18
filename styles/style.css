@@ -183,3 +183,11 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     font: 13px sans-serif, arial;
     
 }
+
+ /*Styles for results titles/links*/
+ .resultlinks {
+    color: blue;
+    font: 20px sans-serif,arial;
+    text-decoration: none;
+    padding-bottom:  1px;
+}
