@@ -218,3 +218,15 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     top: -24px;
     display: block;
 }
+
+/*Positioning of 2nd result on web page*/
+#result-2 {
+    margin: 170px 350px 2px 150px;
+    border: 1px solid rgb(184, 179, 179);
+    border-radius: 10px;
+    padding: 12px;
+    display: block;
+    font: 17px sans-serif, arial;
+    position: relative;
+    top: -250px;
+}
