@@ -328,4 +328,7 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     font: 20px sans-serif, arial bolder;
 }
 
-
+/*Positioning of the logos*/
+.icon-links {
+    margin: 27px;
+}
