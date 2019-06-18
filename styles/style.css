@@ -268,3 +268,9 @@ a.toplefttabs:hover, i.material-icons:hover, #settings:hover {
     padding-bottom: 15px;
 }
 
+/*Position of the expand more icon*/
+#expand-more {
+    float: right;
+    padding-right: 4px;
+    color: grey;
+}
