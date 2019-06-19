@@ -13,3 +13,7 @@ There are no JavaScript code in this project since this is solely to practise on
 ## Author
 
 Losalini Rokocakau **GitHub username:** *chelmerrox*
+
+## View my Google.com search results web page
+
+**https://chelmerrox.github.io/Google.com-search-results-page/**
