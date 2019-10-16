@@ -6,9 +6,9 @@ This assigned project is my attempt at replicating the search results page as in
 
 There are no JavaScript code in this project since this is solely to practise on placements and styling of elements/content of the webpage.
 
-## Screenshot of web page
+## Preview of web page
 
-![My-Google-search-results-page] (images/mygoogle.comsearchresultspage_top.PNG)
+![Google-search-results-page](images/mygoogle.comsearchresultspage_top.PNG)
 
 ## Author
 
